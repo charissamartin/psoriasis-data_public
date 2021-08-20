@@ -1,0 +1,9 @@
+fastqc_path: "/ssd1/java_tools/fastqc"
+star_index_path: "/ssd1/resources/human/GRCh38_r85/star"
+saf_format_genes: "/ssd1/resources/human/GRCh38_r85/saf/genes.saf"
+feature_count_strand: "1"
+salmon_index_path: "/ssd1/resources/human/GRCh38_r85/salmon"
+salmon_gene_transcript_map: "/ssd1/resources/human/GRCh38_r85/cdna/salmon_gene_map.tsv"
+salmon_bootstraps: 50
+rerun-incomplete: true
+restart-times: 3
